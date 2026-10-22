@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Laura 👋
 
-<!--
-**Laura3342/Laura3342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Full Stack Developer interested in building web applications from frontend to backend.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend:** JavaScript, TypeScript, React, Next.js, HTML, CSS
+- **Backend:** Java, Spring Boot, REST APIs
+- **Databases:** SQL, MariaDB
+- **Tools & CMS:** Git, GitHub, Docker, Sanity
+
+### 🎓 Background
+
+- Higher Technician Diploma in Web Application Development (DAW)
+- Previous university studies in Computer Engineering at ULPGC
+
+**Languages:** Spanish (Native) · English (C1)
